@@ -32,6 +32,7 @@ header i{
 }
 
 .nav-content ul li a{
+    display: block;
     color: black;
     text-decoration: none;
 }
